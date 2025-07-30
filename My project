@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <title>Вероника Андреева</title>
+    <meta name="description" content="Описание страницы" />
+    
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+    <link rel="icon" href="/img/favicon.png">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
+    
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <body bgcolor="#c0c0c0"></body>
+    <header>
+     
+      <nav>
+       <nav>
+        <center>Вероника Андреева</center>
+      </nav>
+        <ul>
+<center><a href="index.html">Главная</a>
+<a href="about.html">Обо мне</a>
+<a href="My project.html">Мои проекты</a>
+<a href="Kontacs.html">Контакты</a></center>
+</ul>
+<footer>
+      <div class="social-icons">
+  
+<style>
+    .social-icons {
+  display: flex;
+  justify-content: center;
+}
+ 
+.social-icons a {
+  margin: 0 10px;
+}
+ 
+.social-icons img {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.3s;
+}
+ 
+.social-icons a:hover img {
+  transform: scale(1.2);
+}
+  </style>
+<a href="#vk" onclick="window.open('https://vk.com/share.php?url='+ window.location.href +'')">ВКонтакте</a>
+  </a>
+  
+</div>
+    <p>Email: veronika.andreeva.2019@yandex.ru</p> 
+</footer>
+  </body>
+</html>
